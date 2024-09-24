@@ -12,7 +12,8 @@ To run the project, you need to have the following libraries installed:
 You can install these packages via `pip`:
 
 ```bash
-pip install scikit-learn numpy
+pip install scikit-learn
+pip install numpy
 ```
 
 ## Datasets
