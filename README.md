@@ -81,6 +81,7 @@ Mean Squared Error (Test): 3440.68
 
 If you want to write some test scripts to check whether your model is functioning correctly, here is a simple example using the unittest framework.
 
+```bash
 import unittest
 from sklearn import datasets
 from sklearn.model_selection import train_test_split
@@ -115,4 +116,4 @@ class TestDiabetesModel(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-
+```
