@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-related files
+.vscode/
+.idea/
